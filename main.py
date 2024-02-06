@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 
-words = ["apple", "banana", "orange", "mango", "grape", "kiwi"]
+words = ["apple", "banana", "orange", "mango", "grape", "kiwi, mango"]
 
 
 def new_game():
